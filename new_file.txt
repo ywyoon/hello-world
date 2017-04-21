@@ -1,1 +1,3 @@
 This is a new text file for exercise.
+
+- modification to 'new_file.txt'
